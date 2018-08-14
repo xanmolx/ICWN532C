@@ -41,3 +41,5 @@ int main(){
     fclose(fp);
     return 0;
 }
+
+//input for every file is 1 0 1 1 0 1 0 1
